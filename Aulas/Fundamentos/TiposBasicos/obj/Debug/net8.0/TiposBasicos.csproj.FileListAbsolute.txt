@@ -1,0 +1,14 @@
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.exe
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.deps.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.runtimeconfig.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\bin\Debug\net8.0\TiposBasicos.pdb
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.AssemblyInfoInputs.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.AssemblyInfo.cs
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.csproj.CoreCompileInputs.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\refint\TiposBasicos.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.pdb
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\TiposBasicos.genruntimeconfig.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\TiposBasicos\obj\Debug\net8.0\ref\TiposBasicos.dll
