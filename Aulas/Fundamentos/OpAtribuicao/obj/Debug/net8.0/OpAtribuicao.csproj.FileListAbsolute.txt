@@ -1,0 +1,15 @@
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\bin\Debug\net8.0\OpAtribuicao.exe
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\bin\Debug\net8.0\OpAtribuicao.deps.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\bin\Debug\net8.0\OpAtribuicao.runtimeconfig.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\bin\Debug\net8.0\OpAtribuicao.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\bin\Debug\net8.0\OpAtribuicao.pdb
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.AssemblyInfoInputs.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.AssemblyInfo.cs
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.csproj.CoreCompileInputs.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.sourcelink.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\refint\OpAtribuicao.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.pdb
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\OpAtribuicao.genruntimeconfig.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\OpAtribuicao\obj\Debug\net8.0\ref\OpAtribuicao.dll

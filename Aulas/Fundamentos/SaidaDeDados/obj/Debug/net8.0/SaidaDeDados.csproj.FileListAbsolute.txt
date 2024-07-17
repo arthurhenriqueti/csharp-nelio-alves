@@ -1,0 +1,15 @@
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.exe
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.deps.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.runtimeconfig.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.pdb
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfoInputs.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfo.cs
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.sourcelink.json
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\refint\SaidaDeDados.dll
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.pdb
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.genruntimeconfig.cache
+D:\dev\cursos\csharp-nelio-alves\Aulas\Fundamentos\SaidaDeDados\obj\Debug\net8.0\ref\SaidaDeDados.dll
